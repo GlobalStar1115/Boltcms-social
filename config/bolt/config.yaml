@@ -239,3 +239,8 @@ reset_password_settings:
 
 # Adds sorting and filtering of users in backend
 user_show_sort&filter: false
+
+
+# taxdebt template
+
+taxdebt_template: taxdebt.twig
